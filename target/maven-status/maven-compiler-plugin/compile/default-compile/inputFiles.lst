@@ -1,0 +1,6 @@
+/Volumes/Dev2/Intellij_Workspace/Kafka/src/main/java/org/example/OrderConsumer.java
+/Volumes/Dev2/Intellij_Workspace/Kafka/src/main/java/org/example/model/Order.java
+/Volumes/Dev2/Intellij_Workspace/Kafka/src/main/java/org/example/serializer/OrderSerializer.java
+/Volumes/Dev2/Intellij_Workspace/Kafka/src/main/java/org/example/deserializer/OrderDeserializer.java
+/Volumes/Dev2/Intellij_Workspace/Kafka/src/main/java/org/example/OrderProducer.java
+/Volumes/Dev2/Intellij_Workspace/Kafka/src/main/java/model/generated/com/examples/kafka/avro/Order.java
